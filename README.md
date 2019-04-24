@@ -27,6 +27,7 @@
 | SlackApp | M3W5Ut3Q39AaIwLquryEPMwV62A3znfOO |
 | Parser | M1lugvAXKKtUxn_vdAG9JZleS6DrsjUUV |
 4. プログラムの実行
+5. 編集メニューからトリガーを設定する(自動で通知する場合)
 
 ## References
 * [keyについて](https://qiita.com/fireowl11/items/e703e35073b600528e7c)
